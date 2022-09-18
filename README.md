@@ -5,7 +5,7 @@
   <a href = "mailto:suzaneandrade100@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/suzaneandrade/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://pa1.narvii.com/6747/a611d8d03e4a1f5baab776599579f6b3f5c1b3c9_hq.gif">
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://epipoca.com.br/wp-content/uploads/2022/04/sailor-moon-25042022-1200x900.jpg">
 
 
 ### <h2>Habilidades</h2>
